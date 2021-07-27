@@ -33,7 +33,7 @@ Steps to prepare google sheet:
 ![Click here for the connection](https://github.com/avi7v/Nodemcu-RFID-googlesheets/blob/main/4.jpg?raw=true)
 * plate the Data Id into the var logSpreadSheetId="" in google script page 
 ![Click here for the connection](https://github.com/avi7v/Nodemcu-RFID-googlesheets/blob/main/5.jpg?raw=true)
-* click deploy > new deployment > rfid, me(avi7v@gmai.com), anyone > deploy
+* click deploy > new deployment > rfid, me(avi7v@gmai.com), anyone > deploy (try using firefox instead of chrome if googlesheets show some error or delay)
 * copy the Deployment ID
 * open arduinoIDE and key in your wifi and password into the SSID and PASSWORD and key in the deplyment ID into googlescript id
 ![Click here for the connection](https://github.com/avi7v/Nodemcu-RFID-googlesheets/blob/main/6.jpg?raw=true)
