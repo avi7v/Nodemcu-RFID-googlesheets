@@ -8,4 +8,4 @@ led
 buzzer
 Led display
 
-![alt text](https://github.com/avi7v/Nodemcu-RFID-googlesheets/blob/1.jpg?raw=true)
+![alt text](https://github.com/avi7v/Nodemcu-RFID-googlesheets/1.jpg?raw=true)
